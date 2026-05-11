@@ -255,8 +255,11 @@ private void updateAirAndAdvice(String aqiData) {
 
 ## 结果演示
 
-![演示图1](2ee62ebf151bc992ff3c637b30d9ca13.jpg)
-![演示图2](25641f5ed749f3aa08e836eaaed88f2d.jpg)
+<img width="1080" height="2400" alt="2ee62ebf151bc992ff3c637b30d9ca13" src="https://github.com/user-attachments/assets/f1eebed9-96cb-4170-b151-fc99b581a4a7" />
+<img width="1080" height="2400" alt="25641f5ed749f3aa08e836eaaed88f2d" src="https://github.com/user-attachments/assets/3744ca09-ea8d-46b9-b733-0b6069d5442f" />
+
+
+
 
 ---
 
