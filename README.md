@@ -265,9 +265,9 @@ private void updateAirAndAdvice(String aqiData) {
 
 ## 参考资料
 
-1. 基础架构参考：[Weather_App (zstar1003)](https://github.com/zstar1003/Weather_App)
-2. 百度地图定位 SDK 集成：[CSDN - 百度地图 Android 定位 SDK 使用详解](https://blog.csdn.net/qq1198768105/article/details/125130786)
-3. V7 接口适配参考：[CSDN - 和风天气 V7 接口封装](https://blog.csdn.net/zggq323/article/details/147223798)
+1. 基础架构参考：[Weather_App (zstar1003)](https://github.com/zstar1003/Weather_App)和[【Android】雾霾定位探测系统](https://blog.csdn.net/qq1198768105/article/details/125130786)
+2. 百度地图定位 SDK 集成：[【百度地图API】注册、使用以及问题解决方法＜小白必看＞](https://blog.csdn.net/zlting_/article/details/142951535)
+3. V7 接口适配参考：[2025西电B测雾霾探测系统设计（思路+核心代码）](https://blog.csdn.net/zggq323/article/details/147223798)
 4. 百度地图 Android 定位 SDK 官方文档
 5. 和风天气 QWeather V7 开发文档
 
